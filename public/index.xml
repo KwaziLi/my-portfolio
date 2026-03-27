@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Добро пожаловать on Моё портфолио</title>
+    <link>http://localhost:1313/my-portfolio/</link>
+    <description>Recent content in Добро пожаловать on Моё портфолио</description>
+    <generator>Hugo</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 27 Mar 2026 15:26:40 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/my-portfolio/projects/</link>
+      <pubDate>Fri, 27 Mar 2026 15:26:40 +0300</pubDate>
+      <guid>http://localhost:1313/my-portfolio/projects/</guid>
+      <description>&lt;h2 id=&#34;мои-проекты&#34;&gt;Мои проекты&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-сайт-портфолио-на-hugo&#34;&gt;1. Сайт-портфолио на Hugo&lt;/h3&gt;&#xA;&lt;p&gt;Персональный сайт, развёрнутый на GitHub Pages с использованием GitHub Actions для автоматического деплоя.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Технологии:&lt;/strong&gt; Hugo, GitHub Pages, GitHub Actions&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-другие-работы&#34;&gt;2. Другие работы&lt;/h3&gt;&#xA;&lt;p&gt;Здесь будут описания других проектов.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/my-portfolio/about/</link>
+      <pubDate>Fri, 27 Mar 2026 15:24:46 +0300</pubDate>
+      <guid>http://localhost:1313/my-portfolio/about/</guid>
+      <description>&lt;h2 id=&#34;обо-мне&#34;&gt;Обо мне&lt;/h2&gt;&#xA;&lt;p&gt;Меня зовут Игнатьев Денис Сергеевич. Я студент, а дальнейшие разглагольства ни к чему!&lt;/p&gt;&#xA;&lt;h2 id=&#34;навыки&#34;&gt;Навыки&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Git &amp;amp; GitHub&lt;/li&gt;&#xA;&lt;li&gt;HTML/CSS&lt;/li&gt;&#xA;&lt;li&gt;Hugo&lt;/li&gt;&#xA;&lt;li&gt;GitHub Actions&lt;/li&gt;&#xA;&lt;li&gt;CI/CD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;контакты&#34;&gt;Контакты&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/KwaziLi&#34;&gt;KwaziLi&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:ignatev_den@bk.ru&#34;&gt;ignatev_den@bk.ru&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

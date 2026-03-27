@@ -1,0 +1,22 @@
+baseURL = 'https://KwaziLi.github.io/my-portfolio/'
+languageCode = 'ru'
+title = 'Моё портфолио'
+theme = 'ananke'
+
+[params]
+  description = "Персональный сайт-портфолио"
+  author = "Игнатьев Денис"
+  
+[menu]
+  [[menu.main]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "О себе"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Проекты"
+    url = "/projects/"
+    weight = 3
